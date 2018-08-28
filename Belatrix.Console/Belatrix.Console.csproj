@@ -50,9 +50,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="JobLogger.cs" />
-    <Compile Include="JobLoggerCorrected.cs" />
-    <Compile Include="JobLoggerCorrectedTestCase.cs" />
+    <Compile Include="JobLoggerCustom.cs" />
+    <Compile Include="JobLoggerCustomTestCase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

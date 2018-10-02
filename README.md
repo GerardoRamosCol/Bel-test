@@ -1,5 +1,8 @@
 # Bel-test
-Belatrix Code review
+
+Code Sample implementeing factory pattern.
+
+Simple log component to save log information to file or Database
 
 This test was made with Visual Studio 2015 Update 2 and SQL Server 2017
 
